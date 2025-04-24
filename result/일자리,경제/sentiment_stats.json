@@ -1,0 +1,14 @@
+{
+  "total_posts": 3,
+  "sentiment_distribution": {
+    "neutral": {
+      "count": 3,
+      "percentage": 100.0
+    }
+  },
+  "average_scores": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 1.0
+  }
+}
